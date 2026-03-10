@@ -19,6 +19,4 @@ Pocket is a modern, premium mobile-first web application for tracking your daily
 - **Icons**: Lucide React
 - **Date Handling**: date-fns
 
-## Live Demo
 
-Experience the app here: [https://expense-tracker-bfb3b.web.app](https://expense-tracker-bfb3b.web.app)
