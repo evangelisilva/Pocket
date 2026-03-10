@@ -1,0 +1,43 @@
+{
+  "short_name": "Pocket",
+  "name": "Pocket",
+  "icons": [
+    {
+      "src": "/icon-maskable.png",
+      "type": "image/png",
+      "sizes": "1024x1024",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable.png",
+      "type": "image/png",
+      "sizes": "1024x1024",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-maskable.png",
+      "type": "image/png",
+      "sizes": "1024x1024",
+      "purpose": "apple-touch-icon"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#ffffff",
+  "shortcuts": [
+    {
+      "name": "Scan Receipt",
+      "short_name": "Scan",
+      "description": "Scan a new receipt with AI",
+      "url": "/scan",
+      "icons": [
+        {
+          "src": "/icon-maskable.png",
+          "sizes": "1024x1024"
+        }
+      ]
+    }
+  ]
+}
